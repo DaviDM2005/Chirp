@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753351501216",
+    "project_id": "chirp-777",
+    "storage_bucket": "chirp-777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753351501216:android:d0b3293a11c237abe530c5",
+        "android_client_info": {
+          "package_name": "dav.project.chirp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9EoKGbY8wxPGsEMIMcfbYPWNyjRmg3GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
